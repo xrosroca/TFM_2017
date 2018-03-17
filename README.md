@@ -2,6 +2,11 @@
 
 Master thesis for Master in Statistics and Operations Research at Universitat Politècnica de Catalunya (MESIO UPC-UB, Barcelona, Spain)
 
+## Professors 
+
+* Jaume Barceló (UPC-DEIO)
+* Lidia Montero (UPC-DEIO)
+
 ## Abstract
 
 Mathematical and simulation models of systems lay at the core of decision support systems, and their role become more critical as more complex is the system object of decision. The decision process usually encompasses the optimization of some utility function that evaluates the performance indicators that measure the impacts of the decisions. An increasing difficulty directly related to the complexity of the system arises when the associated function to be optimized is a not analytical, non-differentiable, non-linear function which can only be evaluated by simulation. Simulation-Optimization techniques are especially suited in these cases and its use is increasing in traffic models, an archetypic case of complex, dynamic systems exhibiting highly stochastic characteristics. In this approach simulation is used to evaluate the objective function, and a non-differentiable optimization technique to solve the optimization problem is used. *Simultaneous Perturbation Stochastic Approximation* (SPSA) is one of the most popular of these techniques.
