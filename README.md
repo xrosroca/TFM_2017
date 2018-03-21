@@ -19,4 +19,4 @@ In this work, a varied set of Software environments have been used, combining *R
 
 * To the Thesis: [here](https://upcommons.upc.edu/handle/2117/100675)
 * To the Results: [here](https://public.tableau.com/profile/xavier.ros.roca#!/)
-* To the published article: [here](https://www.sciencedirect.com/science/article/pii/S235214651730995X)
+* To the published article: [here](https://www.sciencedirect.com/science/article/pii/S235214651730995X) (presented at [EWGT 2017](http://ewgt2017.bme.hu/) in Budapest, Hungary)
