@@ -20,3 +20,7 @@ In this work, a varied set of Software environments have been used, combining *R
 * To the Thesis: [here](https://upcommons.upc.edu/bitstream/handle/2117/100675/memoria.pdf?sequence=1&isAllowed=y)
 * To the Results: [here](https://public.tableau.com/profile/xavier.ros.roca#!/)
 * To the published article: [here](https://www.sciencedirect.com/science/article/pii/S235214651730995X) (presented at [EWGT 2017](http://ewgt2017.bme.hu/) in Budapest, Hungary)
+
+## Note
+
+This Master Thesis was awarded with the Spanish prize: *XV premio Abertis de gestión de infraestructuras de transporte en la categoría de tesinas*
